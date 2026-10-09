@@ -6,6 +6,7 @@ This repository publishes a research statement and supporting evidence for inves
 
 - [Public research statement (PDF)](publication/Technically_Enforceable_Data_Sovereignty_Public_Research_Statement_v1.0.pdf)
 - [Public research statement (Markdown)](publication/Technically_Enforceable_Data_Sovereignty_Public_Research_Statement_v1.0.md)
+- **Permanent DOI:** [10.5281/zenodo.23268908](https://doi.org/10.5281/zenodo.23268908)
 
 The statement frames a research problem, threat model, candidate security properties, related work, and proposed experiments. It does **not** claim that a complete solution has been implemented or that novelty has been established.
 
